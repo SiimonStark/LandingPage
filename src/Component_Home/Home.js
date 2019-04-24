@@ -1,6 +1,8 @@
 import React from 'react';
 import Summary from '../Component_Summary/Summary';
 import Social from '../Component_Social/Social';
+import imageLink from '../images/imageLink';
+
 
 function Home() {
   return (
@@ -15,7 +17,7 @@ function Home() {
         <button className="Hello__hire">HIRE ME</button>
         <Social />
       </section>
-      <img src="../images/JustFred.jpg" alt="Justin, overlooking downtown Fredericksburg" />
+      <img src={imageLink.justFred} alt="Justin, overlooking downtown Fredericksburg" />
       <Summary />
     </section>
   );
