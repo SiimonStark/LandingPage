@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Nav from './Component_Nav/Nav';
 import Home from './Component_Home/Home';
 
 
 function App() {
-  let tab = Home;
+  let tab = <Home />;
 
   return (
     <div className="App">
@@ -15,4 +15,6 @@ function App() {
 }
 
 export default App;
-https://github.com/SiimonStark/LandingPage.git
+
+// ? Inspiration:
+// ? https://dribbble.com/shots/5338988-Personal-Portfolio-Web-UI

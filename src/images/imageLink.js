@@ -1,0 +1,8 @@
+const imageLink = {
+  justFred: "https://lh3.googleusercontent.com/VYgPvrtjtZA1GuscYcRwbL3rllLK3D-84h-SGzBi8EjKZKgPqVCuKMqTN68vk82jEClIMAiO4Hp9n-7KWa7dmrjVD7nJ6AJmZjMYGm0Z3hOQPybyuAJN49Q8IrVNxbpwC87t-OaaW-X9QBBaRxgGzhq5gDUL9YIdOOJF3j3mKixCt1L2-d-mOOSXkZ-o1wgkPi1z8kvFc8gXlwMdXRdnW5qR_oAR759xDaf-YfpUGKxnmWHddwUJJJUk47-TqokkSUrFLcqakXttTNX7XL5GR7zJGk4M9VJaxYC87AbsoYA-GtZoAYDEL2FVryObl9EA_PglfDezEwmWXQg__5gRzygtVAaWsQENw0QLQtwghtIrqyk0-p0jjlryMqPz2e87l05Br6d9bMXt6Aed1An_jVfm_CzvKualPc7nAMZo3xA7xmziRkYEicR4SDwgJKZSZ8sUD_LBriqA9gjM4bAyj5be0wt2tr47zF6n1tEJ5MJPozIvQ3l7xmRLJ7b_4naGyhL7FCkX8Xy095dAsDAXYhtCzG4pigjdhzgggzO4bJS4rygsA8KxP00KQdqom-bLzbtjRfftc8PFyBskjIz-QSKz5gO8iOIe64X306YOuETXT1YgoIiDcyESFdWRsnYEsCfkGSnDGfmdhmN8ofm-zjgIObcm0W_Z=w1280-h960-no",
+  twitterCircle: "https://image.flaticon.com/icons/svg/69/69480.svg",
+  linkedInCircle: "https://image.flaticon.com/icons/svg/1384/1384014.svg",
+  gitHubCircle: "https://image.flaticon.com/icons/svg/25/25231.svg"
+}
+
+export default imageLink;
